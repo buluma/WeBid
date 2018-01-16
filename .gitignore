@@ -9,3 +9,6 @@ uploaded/**
 !uploaded/logo/logo.png
 .idea/
 includes/packages/captcha/securimage.php
+install2/
+install/**
+install/
